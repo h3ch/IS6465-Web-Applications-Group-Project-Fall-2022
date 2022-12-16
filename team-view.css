@@ -1,0 +1,76 @@
+body{
+	background-color: rgb(255, 0, 0);
+	padding-bottom: 50px;
+}
+
+.image img{
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  position: absolute;
+  top: 450px;
+  right: 500px;
+  width: 350px;
+  height: 300px;
+  padding-left: -100px;
+  }
+  
+ .add{
+	text-decoration: black underline;
+	color: black;
+	padding-left: 40px;
+	position: absolute;
+	top: 200px;
+	left: 60px;
+}
+
+
+.textbox{
+	position: absolute;
+	left: 350px;
+	top: 500px;
+}
+
+.textboxtwo{
+	position: absolute;
+	left: 350px;
+	top: 800px;
+}
+
+.teamdetails{
+	position: absolute;
+	font-size: 30px;
+}
+
+.teamincome{
+	position: absolute;
+	font-size: 30px;
+	bottom: 150px;
+}
+
+.teamschedule{
+	width: 60%;
+	position: absolute;
+     top: 750px;
+     right: 675px;
+     margin-right: -50%;
+}
+
+.teamscheduletwo{
+	width: 60%;
+	position: absolute;
+     top: 840px;
+     right: 450px;
+     margin-right: -50%;
+}
+
+.date{
+	position: absolute;
+	top: 81px;
+	font-size: 20px;
+}
+
+.oteam{
+	position: absolute;
+	top: -10px;
+	font-size: 20px;
+}
